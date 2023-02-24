@@ -1,0 +1,26 @@
+.footer{
+    bottom: 0;
+    background-color: gray;
+    color: yellow;
+    width: 100%;
+    position: fixed;
+    line-height: 3;
+
+}
+
+.header{
+    top: 0;
+    width: 100%;
+    box-shadow: 5px 5px 5px gray;
+    color: white;
+    font-size: 24px;
+    
+}
+
+.note{
+color: black;
+font-size: 14px;
+}
+body{
+    background-image: url("doodle-font-family-comic-alphabet-fat-vector-28180784.jpg");
+}
